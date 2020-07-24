@@ -16,6 +16,7 @@ gem 'bootstrap', '~> 4.5.0'
 gem 'jquery-rails'
 gem 'font-awesome-sass', '~> 5.13.0'
 gem 'simple_form'
+gem 'faker'
 
 
 group :development, :test do
